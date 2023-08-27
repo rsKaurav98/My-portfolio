@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 export const Boxes = styled.div`
   width: 100%;
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin: 24px 0 40px;
