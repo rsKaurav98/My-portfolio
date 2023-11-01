@@ -4,9 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: `1st`, text: `Ranked first in men's volleyball Sangathan`},
-  { number: `3rd`, text: 'Won bronze medal in Dist. karate event', },
-  { number: `Covid19`, text: 'Volunteered in covid relief programms', },
+  { number: `1st`, text: `Best Event award in Chroma College fest `},
+  { number: `2nd`, text: "Won Silver  medal in Men's cricket in Sangathan ", },
+  { number: `Indo-SriLanka YEP`, text: 'Youngest member of Indo- SriLanka military youth exchanage program', },
   
 ];
 

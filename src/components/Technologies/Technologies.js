@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js and Flutter
+            React.js and JavaScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            HTML , Css , BootStrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
